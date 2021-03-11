@@ -20,11 +20,8 @@
       "email": "gnasey3@wiley.com",
       "password": "25icFXs#@ER"
     }
-  ]
-}
-
-
-{ "gallery" :[ 
+  ], 
+  "gallery" :[ 
  {
   "id": 101,
   "title": "consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc",
