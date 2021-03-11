@@ -1,5 +1,4 @@
-{
-  "users": [
+[
     {
       "email": "usermail@gmail.com",
       "password": "Aqeq456@1"
@@ -20,5 +19,4 @@
       "email": "gnasey3@wiley.com",
       "password": "25icFXs#@ER"
     }
-  ]
-}
+]
